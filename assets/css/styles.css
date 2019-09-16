@@ -1,0 +1,18 @@
+div.bg{
+  color:#fff;
+  text-align:center;
+  background:url('../../assets/img/maxresdefault.jpg');
+  background-size:cover;
+  background-position:center;
+  padding-top:100px;
+  padding-bottom:100px;
+}
+body.bg{
+  color:#fff;
+  text-align:center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position:center;
+  padding-top:100px;
+  padding-bottom:100px;
+}
